@@ -1,5 +1,5 @@
 def jisuanqi():
-    import gongshi
+    from Day05 import gongshi
     a = float(input("请输入一个数： "))
        
     while True:
