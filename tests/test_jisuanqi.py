@@ -1,5 +1,5 @@
 import unittest
-import gongshi
+from Day05 import gongshi
 
 class TestJisuanqi(unittest.TestCase):
     def test_add(self):

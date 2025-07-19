@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-import jisuan
+from Day05 import jisuan
 
 class Testjisuan(unittest.TestCase):
 
