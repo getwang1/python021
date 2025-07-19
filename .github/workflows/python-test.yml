@@ -32,3 +32,6 @@ jobs:
       with:
         name: coverage-report
         path: htmlcov
+    - name: Install package
+      run: |
+         python -m pip install .  
